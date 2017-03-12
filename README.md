@@ -30,13 +30,23 @@ Further ideas that I can explore for my website :
 4. https://github.com/guillaumechereau/js-is-a-mess
 5. https://github.com/heyrm/Cool-Stuff-For-Front-End-Developers
 6. https://github.com/benoitvallon/benoitvallon.github.io
+7. https://github.com/JordanSpencerWu/JordanSpencerWu.github.io
+8. https://www.nayuki.io/page/full-screen-clock-javascript
+9. https://github.com/nayuki/pomax.github.io
+10. Fun memes to include (Funny things I visited, so far): https://blog.codinghorror.com/, https://stallman.org/puns.html, http://www.cs.williams.edu/~bailey/cs237/SyS17.pdf
+11. https://www.freelancer.com/jobs/C-Programming/1/
+12. Java games on GitHub : https://github.com/JordanSpencerWu/Pokemon, 
 
+Tutorials to read :
+
+1. https://github.com/JordanSpencerWu/HTML5-web-component
 
 Three most important git commands that I use :
 
 1. git add README.md 
 2. git commit -m "Use a period followed by space for creating numbered lists in markdown"
 3. git push origin master
+4. git remote -v
 
 
 
