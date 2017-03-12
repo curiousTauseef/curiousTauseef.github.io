@@ -22,7 +22,7 @@ Later, I google to find websites hosted on GitHub by other people :
 
 
 
-Further ideas I can explore for my website :
+Further ideas that I can explore for my website :
 
 1. https://github.com/junjunguo/junjunguo.github.io
 2. https://github.com/IanSeyler/ianseyler.github.io
@@ -32,6 +32,10 @@ Further ideas I can explore for my website :
 6. https://github.com/benoitvallon/benoitvallon.github.io
 
 
+Three most important git commands that I use :
+1. git add README.md 
+2. git commit -m "Use a period followed by space for creating numbered lists in markdown"
+3. git push origin master
 
 
 
