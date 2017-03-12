@@ -33,6 +33,7 @@ Further ideas that I can explore for my website :
 
 
 Three most important git commands that I use :
+
 1. git add README.md 
 2. git commit -m "Use a period followed by space for creating numbered lists in markdown"
 3. git push origin master
