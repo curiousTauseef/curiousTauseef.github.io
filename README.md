@@ -10,7 +10,7 @@ I downloaded the Jedy website theme from BootStrap website, unzipped it, copied 
 /home/tauseef/git-repo/gitHubIOPage/myGitHubSite/curiousTauseef.github.io. I made suitable changes to index.html file. 
 Finally I used the git commands - add, commit and push origin master to push the changes to the GitHub.
 
-To understand the command of Git I referred the textbook called Pro Git written by Scott Chacon and Ben Straub.
+To understand the commands of Git I referred the textbook-Pro Git, written by Scott Chacon and Ben Straub.
 
 To understand how to write in markdown format, I used this - http://nestacms.com/docs/creating-content/markdown-cheat-sheet
 
@@ -38,6 +38,9 @@ Further ideas that I can explore for my website :
 10. Fun memes to include (Funny things I visited, so far): https://blog.codinghorror.com/, https://stallman.org/puns.html, http://www.cs.williams.edu/~bailey/cs237/SyS17.pdf
 11. https://www.freelancer.com/jobs/C-Programming/1/
 12. Java games on GitHub : https://github.com/JordanSpencerWu/Pokemon, 
+13. https://github.com/karan/karan.github.io
+14. https://github.com/nameisdileep/nameisdileep.github.io
+15. https://github.com/marjuk/marjuk.github.io
 
 
 More freely available templates to explore :
@@ -45,6 +48,8 @@ More freely available templates to explore :
 1. http://themes.3rdwavemedia.com/
 2. http://themes.3rdwavemedia.com/demo/devaid/
 3. https://www.bootstrapzero.com/bootstrap-template/munter
+4. https://bootstraptaste.com/techie-free-skin-bootstrap-3/
+5. https://bootstrapmade.com/demo/Amoeba/
 
 
 Tutorials to read :
