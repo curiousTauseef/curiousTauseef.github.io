@@ -17,6 +17,8 @@ To understand how to write in markdown format, I used this - http://nestacms.com
 
 Other sites that could be used for reference are below:
 1. http://learntocodewith.me/tutorials/github-pages/
+2. https://mobirise.com/help/github-pages-tutorial-301.html
+
 
 Later, I google to find websites hosted on GitHub by other people :
 
@@ -36,6 +38,14 @@ Further ideas that I can explore for my website :
 10. Fun memes to include (Funny things I visited, so far): https://blog.codinghorror.com/, https://stallman.org/puns.html, http://www.cs.williams.edu/~bailey/cs237/SyS17.pdf
 11. https://www.freelancer.com/jobs/C-Programming/1/
 12. Java games on GitHub : https://github.com/JordanSpencerWu/Pokemon, 
+
+
+More freely available templates to explore :
+
+1. http://themes.3rdwavemedia.com/
+2. http://themes.3rdwavemedia.com/demo/devaid/
+3. https://www.bootstrapzero.com/bootstrap-template/munter
+
 
 Tutorials to read :
 
