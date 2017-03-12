@@ -22,17 +22,13 @@ Later, I google to find websites hosted on GitHub by other people :
 
 
 
-Further ideas I can explore for my website : 
+Further ideas I can explore for my website :
+
 1. https://github.com/junjunguo/junjunguo.github.io
-
 2. https://github.com/IanSeyler/ianseyler.github.io
-
 3. https://github.com/cantino/andrewcantino.com
-
 4. https://github.com/guillaumechereau/js-is-a-mess
-
 5. https://github.com/heyrm/Cool-Stuff-For-Front-End-Developers
-
 6. https://github.com/benoitvallon/benoitvallon.github.io
 
 
