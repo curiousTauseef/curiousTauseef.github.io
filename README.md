@@ -7,7 +7,7 @@ I followed the steps mentioned, thereby creating a new repository - curiousTause
 Next, I created a directory called /home/tauseef/git-repo/gitHubIOPage/myGitHubSite in my Ubuntu desktop, followed by cloning the above repository
 repo inside the directory- myGitHubSite. <br/>
 I downloaded the Jedy website theme from BootStrap website, unzipped it, copied the contents to
-/home/tauseef/git-repo/gitHubIOPage/myGitHubSite/curiousTauseef.github.io. I made suitable changes to index.html file. 
+/home/tauseef/git-repo/gitHubIOPage/myGitHubSite/curiousTauseef.github.io. I made suitable changes to index.html file. <br/>
 Finally I used the git commands - add, commit and push origin master to push the changes to the GitHub.
 
 To understand the commands of Git I referred the textbook-Pro Git, written by Scott Chacon and Ben Straub.
