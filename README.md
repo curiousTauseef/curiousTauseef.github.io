@@ -3,7 +3,7 @@ static website created during my stay in Leuven using the material from http://t
 website can be accessed at - http://curioustauseef.github.io/
 
 I visited the website above and decided to make a static website for our proposed startup.
-I followed the steps mentioned, thereby creating a new repository - curiousTauseef.github.io, using same name as my GitHub user name.
+I followed the steps mentioned, thereby creating a new repository - curiousTauseef.github.io, using same name as my GitHub user name.  <br/>
 Next, I created a directory called /home/tauseef/git-repo/gitHubIOPage/myGitHubSite in my Ubuntu desktop, followed by cloning the above repository
 repo inside the directory- myGitHubSite. 
 I downloaded the Jedy website theme from BootStrap website, unzipped it, copied the contents to
